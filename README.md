@@ -1,4 +1,6 @@
-# <table><tr><td><img src="https://www.zeenepk.shop/assets/zeene.webp" width="40" height="40" align="center"></td><td>Zeene Pakistan</td></tr></table>### Premium Custom-Stitched Apparel & Modern E-commerce Experience
+# <table><tr><td><img src="zeene1.jpeg" width="50" height="50" align="center"></td><td>&nbsp; Zeene Pakistan</td></tr></table>
+
+### Premium Custom-Stitched Apparel & Modern E-commerce Experience
 
 **Zeene Pakistan** is a bespoke digital storefront dedicated to high-end Pakistani fashion. It bridges the gap between traditional craftsmanship and modern e-commerce, offering a seamless "Made to Measure" journey for customers worldwide.
 
