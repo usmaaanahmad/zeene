@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://www.zeenepk.shop/assets/zeene.webp" width="120" height="120" style="border-radius: 50%; background-color: white; padding: 10px; border: 2px solid #f0f0f0;" alt="Zeene Pakistan Logo">
+</p>
 # 👗 Zeene Pakistan
 ### Premium Custom-Stitched Apparel & Modern E-commerce Experience
 
