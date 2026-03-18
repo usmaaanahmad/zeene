@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://www.zeenepk.shop/assets/zeene.webp" width="120" height="120" style="border-radius: 50%; background-color: white; padding: 10px; border: 2px solid #f0f0f0;" alt="Zeene Pakistan Logo">
-</p>
-# 👗 Zeene Pakistan
+# <img src="https://www.zeenepk.shop/assets/zeene.webp" width="40" height="40" style="border-radius: 50%; background-color: white; padding: 4px; vertical-align: middle; margin-right: 10px; border: 1px solid #ddd;"> Zeene Pakistan
 ### Premium Custom-Stitched Apparel & Modern E-commerce Experience
 
 **Zeene Pakistan** is a bespoke digital storefront dedicated to high-end Pakistani fashion. It bridges the gap between traditional craftsmanship and modern e-commerce, offering a seamless "Made to Measure" journey for customers worldwide.
